@@ -93,6 +93,7 @@ Medium-tier orders were the clear majority, suggesting the typical customer — 
 
 ---
 
-## Tools
+## Tools Used
 
-- **SQL** — DuckDB through DBeaver
+- **SQL** - DuckDB (through DBeaver)
+- **Tableau**
