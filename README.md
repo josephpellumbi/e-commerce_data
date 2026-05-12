@@ -74,7 +74,7 @@ Orders were segmented into three tiers by total invoice value:
 
 | Tier | Invoice Value | Order Count | % of Total |
 |---|---|---|---|
-| Small | < £200 | ~6,100 | ~7% |
+| Small | < £200 | ~6100 | ~7% |
 | Medium | £200 – £999 | ~11,000 | ~60% |
 | Large | ≥ £1,000 | ~1300 | ~33% |
 
