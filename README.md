@@ -75,7 +75,7 @@ Orders were segmented into three tiers by total invoice value:
 | Tier | Invoice Value | Order Count | % of Total |
 |---|---|---|---|
 | Small | < £200 | ~6,100 | ~7% |
-| Medium | £200 – £999 | ~11,000 | ~60% |
+| Medium | £200 - £999 | ~11,000 | ~60% |
 | Large | ≥ £1,000 | ~1,300 | ~33% |
 
 Medium-tier orders were the clear majority, suggesting the typical customer — likely a small wholesaler — placed moderate-sized bulk purchases rather than very large or very small ones.
