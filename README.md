@@ -32,7 +32,7 @@ The goal of this project was to use SQL to answer meaningful business questions 
 | `CustomerID` | Unique customer identifier |
 | `Country` | Country of the customer |
 
-**Source:** [Kaggle — E-Commerce Data](https://www.kaggle.com/datasets/carrie1/ecommerce-data)  
+**Source:** [Kaggle - E-Commerce Data](https://www.kaggle.com/datasets/carrie1/ecommerce-data)  
 **Original source:** UCI Machine Learning Repository, contributed by Dr. Daqing Chen
 
 ---
