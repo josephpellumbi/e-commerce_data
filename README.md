@@ -97,3 +97,6 @@ Medium-tier orders were the clear majority, suggesting the typical customer — 
 
 - **SQL** - DuckDB (through DBeaver)
 - **Tableau**
+
+<img width="2048" height="1536" alt="E-Commerce Dashboard" src="https://github.com/user-attachments/assets/ede1ed3b-21d1-4c39-8355-045bb8b193e8" />
+
